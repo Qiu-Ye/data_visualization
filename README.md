@@ -23,3 +23,7 @@
 ## btc_close
 
 分析**Json**格式的交易收盘价数据，并使用Python的可视化包**Pygal**对结果进行数据可视化，以探索价格变化的周期性。
+
+## python_repos
+
+通过GitHub的API调用，自动下载GitHub上星级最高的Python项目信息，并对这些信息进行可视化。
