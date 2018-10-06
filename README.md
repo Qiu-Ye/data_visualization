@@ -2,11 +2,11 @@
 
 ## mpl_squares.py
 
-使用**matplotlib**生成折线图代码
+使用**matplotlib**生成折线图代码。
 
 ## scatter_squares.py
 
-使用**matplotlib**生成散点图代码
+使用**matplotlib**生成散点图代码。
 
 ## random_walk
 
@@ -19,3 +19,7 @@
 ## temperature_xian
 
 在[气象网站](https://rp5.ru/%E8%A5%BF%E5%AE%89%E5%A4%A9%E6%B0%94_)上获取西安市一年的气温数据（CSV格式），从中提取出每一天的最高温和最低温，并将这些数据进行可视化。
+
+## btc_close
+
+分析**Json**格式的交易收盘价数据，并使用Python的可视化包**Pygal**对结果进行数据可视化，以探索价格变化的周期性。
