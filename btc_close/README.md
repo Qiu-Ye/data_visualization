@@ -19,9 +19,9 @@
 
 ![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/27402765.jpg)
 
-![1538793985950](C:\Users\QiuYe\AppData\Local\Temp\1538793985950.png)
+![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/79233913.jpg)
 
-生成数据仪表盘，将前面绘制的图整合在一起，生成一个完整的html文件，方便进行长期管理、检测和分析。
+生成**数据仪表盘**，将前面绘制的图整合在一起，生成一个完整的html文件，方便进行长期管理、检测和分析。
 
 ![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/17078274.jpg)
 
