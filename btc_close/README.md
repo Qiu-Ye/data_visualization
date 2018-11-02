@@ -7,23 +7,23 @@
 
 **绘制收盘价折线图**：
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/32905253.jpg)
+![](http://img.qiuye.online/18-10-6/32905253.jpg)
 
 为了验证周期性假设，需要先使用对数变换剔除非线性趋势，得到**收盘价对数变换折线图**：
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/95453304.jpg)
+![](http://img.qiuye.online/18-10-6/95453304.jpg)
 
 **收盘价月/周/星期均值**：
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/64860335.jpg)
+![](http://img.qiuye.online/18-10-6/64860335.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/27402765.jpg)
+![](http://img.qiuye.online/18-10-6/27402765.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/79233913.jpg)
+![](http://img.qiuye.online/18-10-6/79233913.jpg)
 
 生成**数据仪表盘**，将前面绘制的图整合在一起，生成一个完整的html文件，方便进行长期管理、检测和分析。
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/17078274.jpg)
+![](http://img.qiuye.online/18-10-6/17078274.jpg)
 
 
 

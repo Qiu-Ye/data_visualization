@@ -20,16 +20,16 @@ Description: A curated list of awesome Python frameworks, libraries, software an
 
 使用Pygal可视化仓库：
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/37321635.jpg)
+![](http://img.qiuye.online/18-10-6/37321635.jpg)
 
 在Pygal生成的**svg文件**中，将鼠标指向条形将显示**工具提示**信息。以字典的方式向Pygal传入更多信息，可以创建自定义工具提示。
 
 添加仓库相关联的描述信息，鼠标滑过条形，交互信息会显示该仓库的`starts`数以及其描述信息。
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/24594309.jpg)
+![](http://img.qiuye.online/18-10-6/24594309.jpg)
 
 添加仓库相关联的URL将每个条形都转换为活跃的链接，单击图表中的任何条形，都会通过浏览器跳转到相应项目的GitHub页面。
 
 
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-6/30171204.jpg)
+![](http://img.qiuye.online/18-10-6/30171204.jpg)

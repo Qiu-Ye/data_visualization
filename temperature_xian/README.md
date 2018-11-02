@@ -8,7 +8,7 @@
 
 从文件中提取数据集后，用**matplotlib**绘制气温图标折线图。
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/74754486.jpg)
+![](http://img.qiuye.online/18-10-5/74754486.jpg)
 
 
 

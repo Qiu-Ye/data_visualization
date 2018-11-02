@@ -6,21 +6,21 @@
 
 通过给点着色使得图像呈现出美妙的层次感。
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/88627246.jpg)
+![](http://img.qiuye.online/18-10-5/88627246.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/76883699.jpg)
+![](http://img.qiuye.online/18-10-5/76883699.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/73081816.jpg)
+![](http://img.qiuye.online/18-10-5/73081816.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/86200363.jpg)
+![](http://img.qiuye.online/18-10-5/86200363.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/83062111.jpg)
+![](http://img.qiuye.online/18-10-5/83062111.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/10689147.jpg)
+![](http://img.qiuye.online/18-10-5/10689147.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/57204307.jpg)
+![](http://img.qiuye.online/18-10-5/57204307.jpg)
 
-![](http://pf1jz9eu0.bkt.clouddn.com/18-10-5/80232256.jpg)
+![](http://img.qiuye.online/18-10-5/80232256.jpg)
 
 
 
